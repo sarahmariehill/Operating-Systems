@@ -2,4 +2,6 @@ Operating Systems have many different functions that help serve it's main functi
 
 Firstly, Operatig Systems use the security function to protect the users personal data and files from outsider/unauthorized systems. It uses protection precautions like passwords and other forms of verification to prevent this access. 
 
-As for file management, operating systems make it very simple to navigate your own files and download information to your desktop. Operating systems keep track of storage, privacy, movement, and just the overall management/maintenance of the files on your device. 
+For the second function, we look at the file management displayed by operating systems. Operating systems make it very simple to navigate your own files and download information to your desktop. In addition to this, operating systems keep track of storage, privacy, movement, and just the overall maintenance of the files on your device. 
+
+Finally, for our last function, we have error detection. If there are any damages or changes to the hardware on your device, operating systems make it easier for the user to acknowledge this a perform any diagnostics on those issues. Overall, this helps the user prevent any further failure or damage to occur to their computer. 
