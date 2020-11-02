@@ -1,2 +1,5 @@
-Operating Systems have many different functions that help serve it's main function as a communication interface between the user and the computer. One of these fuctions that I choose to outline today is the function of security. 
-Operatig Systems use the security function to protect the personal data and files from outsider systems. It uses protection precautions like passwords and other forms of verification to prevent outisde access to personal information. 
+Operating Systems have many different functions that help serve it's main function as a communication interface between the user and the computer. Some of these fuctions that I choose to outline today is the function of security, file managment, and error detection. 
+
+Firstly, Operatig Systems use the security function to protect the users personal data and files from outsider/unauthorized systems. It uses protection precautions like passwords and other forms of verification to prevent this access. 
+
+As for file management, operating systems make it very simple to navigate your own files and download information to your desktop. Operating systems keep track of storage, privacy, movement, and just the overall management/maintenance of the files on your device. 
